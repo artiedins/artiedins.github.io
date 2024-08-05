@@ -1,11 +1,4 @@
 # Recipes
 
-## By Name
-*   [a](a)
-
-## By ingredient
-*   [a](a)
-
-## By equipment
-*   [a](a)
-
+- [bread](recipe_details/bread.md)
+- [broccoli pasta](recipe_details/broccoli-pasta.md)

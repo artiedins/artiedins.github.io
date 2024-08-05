@@ -1,0 +1,31 @@
+# bread
+
+## Ingredients
+
+- whole grain flour (100 g)
+- white bread flour (400 g)
+- water (390 g)
+- yeast (1 tsp)
+- salt
+
+## Equipment
+
+- scale
+- dough tub
+- loaf pan
+- grain mill
+- measuring spoons
+- bread knife
+- cutting board
+- mixing bowl
+
+## Notes
+
+- autolyse, wait 15 min
+- mix, wait 15 min
+- fold, wait until spread
+- fold, wait until big
+- put in pan, wait 1 hr
+- bake at 425 deg for 50 min
+- if overnight, do an extra fold and reduce water to 375 g
+- cover with bowl on cutting board
