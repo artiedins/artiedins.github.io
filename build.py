@@ -53,6 +53,9 @@ def generate_recipe_pages():
             recipe_name = recipe["name"]
             slug = slugify(recipe_name)
             file.write(f"- [{recipe_name}]({output_dir}/{slug}.md)\n")
+        file.write("\n## [Ingredients](ingredients.md)\n\n")
+        file.write("## [Equipment](equipment.md)\n\n")
+
 
     create_ingredients_list(recipes)
     create_equipment_list(recipes)
