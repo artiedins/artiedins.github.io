@@ -1,2 +1,2 @@
 # artiedins.github.io
-personal projects
+[personal projects](https://artiedins.github.io)
