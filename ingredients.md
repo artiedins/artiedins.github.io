@@ -54,9 +54,6 @@
 ## parmesan
 
 - [summer quiche](recipe_details/summer-quiche.md)
-
-## parmesan cheese
-
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
 ## pasta

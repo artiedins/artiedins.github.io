@@ -1,5 +1,6 @@
 # All Equipment
 
+- board scraper
 - bread knife
 - chefs knife
 - cutting board

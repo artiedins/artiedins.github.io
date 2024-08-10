@@ -11,7 +11,7 @@
 - red pepper flakes
 - salt
 - pasta
-- parmesan cheese
+- parmesan
 - basil
 
 ## Equipment

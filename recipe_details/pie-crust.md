@@ -12,6 +12,7 @@
 - measuring spoons
 - mixing bowl
 - rolling pin
+- board scraper
 
 ## Notes
 
