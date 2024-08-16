@@ -1,5 +1,9 @@
 # All Ingredients
 
+## anchovies
+
+- [tomato pasta](recipe_details/tomato-pasta.md)
+
 ## basil
 
 - [tomato pasta](recipe_details/tomato-pasta.md)
@@ -40,10 +44,6 @@
 - [summer quiche](recipe_details/summer-quiche.md)
 
 ## olive oil
-
-- [tomato pasta](recipe_details/tomato-pasta.md)
-
-## onion
 
 - [tomato pasta](recipe_details/tomato-pasta.md)
 

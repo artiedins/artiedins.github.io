@@ -3,7 +3,7 @@
 ## Ingredients
 
 - tomatoes (15)
-- onion
+- anchovies
 - garlic
 - butter
 - olive oil
@@ -25,6 +25,6 @@
 
 ## Notes
 
-- cook onion, then garlic, oregano, and pepper flakes, then add the tomatoes
+- cook garlic, anchovies, oregano, and pepper flakes, then add the tomatoes
 - cook tomatoes around 30 minutes
 - use food mill to remove skin and seeds
