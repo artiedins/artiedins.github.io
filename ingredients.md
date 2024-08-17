@@ -2,6 +2,7 @@
 
 ## anchovies
 
+- [chuck roast](recipe_details/chuck-roast.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
 ## basil
@@ -17,15 +18,31 @@
 
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
 
+## brown sugar
+
+- [chuck roast](recipe_details/chuck-roast.md)
+
 ## butter
 
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
 - [pie crust](recipe_details/pie-crust.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
+## chuck roast
+
+- [chuck roast](recipe_details/chuck-roast.md)
+
+## dashima
+
+- [chuck roast](recipe_details/chuck-roast.md)
+
 ## eggs
 
 - [summer quiche](recipe_details/summer-quiche.md)
+
+## fish sauce
+
+- [chuck roast](recipe_details/chuck-roast.md)
 
 ## flour
 
@@ -38,6 +55,10 @@
 ## milk
 
 - [summer quiche](recipe_details/summer-quiche.md)
+
+## miso paste
+
+- [chuck roast](recipe_details/chuck-roast.md)
 
 ## nutmeg
 
@@ -69,6 +90,10 @@
 
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
+## rice vinegar
+
+- [chuck roast](recipe_details/chuck-roast.md)
+
 ## sage
 
 - [summer quiche](recipe_details/summer-quiche.md)
@@ -77,6 +102,7 @@
 
 - [bread](recipe_details/bread.md)
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
+- [chuck roast](recipe_details/chuck-roast.md)
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
@@ -84,6 +110,10 @@
 ## summer squash
 
 - [summer quiche](recipe_details/summer-quiche.md)
+
+## tamari
+
+- [chuck roast](recipe_details/chuck-roast.md)
 
 ## tomatoes
 

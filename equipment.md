@@ -18,3 +18,4 @@
 - scale
 - spatula
 - stock pot
+- thermometer
