@@ -11,6 +11,7 @@
 - measuring spoons
 - microplane grater
 - mixing bowl
+- non-stick pan
 - pepper grinder
 - pie pan
 - rolling pin

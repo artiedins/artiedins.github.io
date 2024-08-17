@@ -31,6 +31,7 @@
 ## chuck roast
 
 - [chuck roast](recipe_details/chuck-roast.md)
+- [miyeok-guk](recipe_details/miyeok-guk.md)
 
 ## dashima
 
@@ -43,6 +44,7 @@
 ## fish sauce
 
 - [chuck roast](recipe_details/chuck-roast.md)
+- [miyeok-guk](recipe_details/miyeok-guk.md)
 
 ## flour
 
@@ -50,6 +52,7 @@
 
 ## garlic
 
+- [miyeok-guk](recipe_details/miyeok-guk.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
 ## milk
@@ -59,6 +62,10 @@
 ## miso paste
 
 - [chuck roast](recipe_details/chuck-roast.md)
+
+## miyeok
+
+- [miyeok-guk](recipe_details/miyeok-guk.md)
 
 ## nutmeg
 
@@ -106,6 +113,10 @@
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+
+## sesame oil
+
+- [miyeok-guk](recipe_details/miyeok-guk.md)
 
 ## summer squash
 

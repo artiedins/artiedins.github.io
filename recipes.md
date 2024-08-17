@@ -3,6 +3,7 @@
 - [bread](recipe_details/bread.md)
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
 - [chuck roast](recipe_details/chuck-roast.md)
+- [miyeok-guk](recipe_details/miyeok-guk.md)
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
