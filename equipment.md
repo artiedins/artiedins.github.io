@@ -2,11 +2,13 @@
 
 - board scraper
 - bread knife
+- can opener
 - chefs knife
 - cutting board
 - dough tub
 - food mill
 - grain mill
+- instant read thermometer
 - loaf pan
 - measuring spoons
 - microplane grater
@@ -16,7 +18,9 @@
 - pie pan
 - rolling pin
 - saucepan
+- saute pan
 - scale
 - spatula
+- stainless steel skillet
 - stock pot
 - thermometer

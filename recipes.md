@@ -6,6 +6,7 @@
 - [miyeok-guk](recipe_details/miyeok-guk.md)
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
+- [summer thai curry](recipe_details/summer-thai-curry.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
 ### [Ingredients](ingredients.md)
