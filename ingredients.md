@@ -26,7 +26,7 @@
 ## broccoli
 
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## brown sugar
 
@@ -41,7 +41,7 @@
 
 ## carrots
 
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## ceylon cinnamon
 
@@ -63,7 +63,7 @@
 ## coconut milk
 
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## coriander
 
@@ -92,7 +92,7 @@
 - [chuck roast](recipe_details/chuck-roast.md)
 - [miyeok-guk](recipe_details/miyeok-guk.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## flour
 
@@ -107,8 +107,8 @@
 - [miyeok-guk](recipe_details/miyeok-guk.md)
 - [palak paneer](recipe_details/palak-paneer.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## ginger
 
@@ -158,7 +158,7 @@
 ## onion
 
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## oregano
 
@@ -181,7 +181,7 @@
 ## red curry paste
 
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## red onion
 
@@ -202,7 +202,7 @@
 ## salmon
 
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## salt
 
@@ -213,8 +213,8 @@
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## serrano chili
 
@@ -226,7 +226,7 @@
 
 ## snow peas
 
-- [summer thai curry](recipe_details/summer-thai-curry.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ## spinach
 

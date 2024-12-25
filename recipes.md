@@ -9,8 +9,8 @@
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
-- [summer thai curry](recipe_details/summer-thai-curry.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+- [winter thai curry](recipe_details/winter-thai-curry.md)
 
 ### [Ingredients](ingredients.md)
 
