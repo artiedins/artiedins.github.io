@@ -9,6 +9,10 @@
 
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
+## bay leaf
+
+- [palak paneer](recipe_details/palak-paneer.md)
+
 ## bell pepper
 
 - [summer thai curry](recipe_details/summer-thai-curry.md)
@@ -31,6 +35,7 @@
 ## butter
 
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
+- [palak paneer](recipe_details/palak-paneer.md)
 - [pie crust](recipe_details/pie-crust.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
@@ -41,6 +46,10 @@
 ## ceylon cinnamon
 
 - [garam masala](recipe_details/garam-masala.md)
+
+## chili powder
+
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## chuck roast
 
@@ -59,10 +68,12 @@
 ## coriander
 
 - [garam masala](recipe_details/garam-masala.md)
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## cumin
 
 - [garam masala](recipe_details/garam-masala.md)
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## dashima
 
@@ -87,12 +98,21 @@
 
 - [pie crust](recipe_details/pie-crust.md)
 
+## garam masala
+
+- [palak paneer](recipe_details/palak-paneer.md)
+
 ## garlic
 
 - [miyeok-guk](recipe_details/miyeok-guk.md)
+- [palak paneer](recipe_details/palak-paneer.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+
+## ginger
+
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## green beans
 
@@ -118,10 +138,18 @@
 
 - [garam masala](recipe_details/garam-masala.md)
 
+## mustard greens
+
+- [palak paneer](recipe_details/palak-paneer.md)
+
 ## nutmeg
 
 - [garam masala](recipe_details/garam-masala.md)
 - [summer quiche](recipe_details/summer-quiche.md)
+
+## oil
+
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## olive oil
 
@@ -155,6 +183,10 @@
 - [summer thai curry](recipe_details/summer-thai-curry.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
 
+## red onion
+
+- [palak paneer](recipe_details/palak-paneer.md)
+
 ## red pepper flakes
 
 - [tomato pasta](recipe_details/tomato-pasta.md)
@@ -177,11 +209,16 @@
 - [bread](recipe_details/bread.md)
 - [broccoli pasta](recipe_details/broccoli-pasta.md)
 - [chuck roast](recipe_details/chuck-roast.md)
+- [palak paneer](recipe_details/palak-paneer.md)
 - [pie crust](recipe_details/pie-crust.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
 - [summer thai curry](recipe_details/summer-thai-curry.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+
+## serrano chili
+
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## sesame oil
 
@@ -190,6 +227,10 @@
 ## snow peas
 
 - [summer thai curry](recipe_details/summer-thai-curry.md)
+
+## spinach
+
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## summer squash
 
@@ -200,10 +241,22 @@
 
 - [chuck roast](recipe_details/chuck-roast.md)
 
+## tomato
+
+- [palak paneer](recipe_details/palak-paneer.md)
+
+## tomato paste
+
+- [palak paneer](recipe_details/palak-paneer.md)
+
 ## tomatoes
 
 - [summer quiche](recipe_details/summer-quiche.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
+
+## tumeric
+
+- [palak paneer](recipe_details/palak-paneer.md)
 
 ## water
 
@@ -221,4 +274,8 @@
 ## yeast
 
 - [bread](recipe_details/bread.md)
+
+## yogurt
+
+- [palak paneer](recipe_details/palak-paneer.md)
 

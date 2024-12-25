@@ -1,6 +1,7 @@
 # All Equipment
 
 - board scraper
+- box grater
 - bread knife
 - can opener
 - chefs knife
@@ -24,3 +25,4 @@
 - stainless steel skillet
 - stock pot
 - thermometer
+- vegetable peeler
