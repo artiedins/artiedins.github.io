@@ -10,7 +10,7 @@
 - oregano
 - red pepper flakes
 - salt
-- miso
+- miso paste
 - tomato paste
 - pasta
 - parmesan

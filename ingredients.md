@@ -126,13 +126,10 @@
 
 - [summer quiche](recipe_details/summer-quiche.md)
 
-## miso
-
-- [tomato pasta](recipe_details/tomato-pasta.md)
-
 ## miso paste
 
 - [chuck roast](recipe_details/chuck-roast.md)
+- [tomato pasta](recipe_details/tomato-pasta.md)
 
 ## miyeok
 
@@ -248,6 +245,7 @@
 
 ## tomato paste
 
+- [chuck roast](recipe_details/chuck-roast.md)
 - [palak paneer](recipe_details/palak-paneer.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 

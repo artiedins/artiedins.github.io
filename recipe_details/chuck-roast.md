@@ -4,6 +4,7 @@
 
 - chuck roast
 - miso paste
+- tomato paste
 - tamari
 - anchovies
 - fish sauce
