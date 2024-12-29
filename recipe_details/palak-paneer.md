@@ -11,7 +11,7 @@
 - ginger
 - red onion
 - salt
-- tomato
+- tomatoes
 - tomato paste
 - coriander
 - tumeric

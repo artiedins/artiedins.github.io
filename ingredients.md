@@ -239,10 +239,6 @@
 
 - [chuck roast](recipe_details/chuck-roast.md)
 
-## tomato
-
-- [palak paneer](recipe_details/palak-paneer.md)
-
 ## tomato paste
 
 - [chuck roast](recipe_details/chuck-roast.md)
@@ -251,6 +247,7 @@
 
 ## tomatoes
 
+- [palak paneer](recipe_details/palak-paneer.md)
 - [summer quiche](recipe_details/summer-quiche.md)
 - [tomato pasta](recipe_details/tomato-pasta.md)
 
