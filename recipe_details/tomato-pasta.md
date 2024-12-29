@@ -6,10 +6,12 @@
 - anchovies
 - garlic
 - butter
-- olive oil
+- oil
 - oregano
 - red pepper flakes
 - salt
+- miso
+- tomato paste
 - pasta
 - parmesan
 - basil
